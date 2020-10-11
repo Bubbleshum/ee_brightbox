@@ -11,7 +11,7 @@ Calmjs' Parse https://github.com/calmjs/calmjs.parse
 
 
 Home Assistant Installation;
-simply copy all these files into config/custom_components
+simply copy all these files into config/custom_components/ee_brightbox
 
 Inside configuration.yaml enter the following to enable, then restart home assistant to load
 
