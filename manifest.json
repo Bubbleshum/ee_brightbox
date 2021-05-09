@@ -1,6 +1,7 @@
 {
   "domain": "ee_brightbox",
   "name": "EE Smart Hub",
+  "version": "2021.5",
   "documentation": "https://www.home-assistant.io/integrations/ee_brightbox",
   "requirements": ["eebrightbox==0.0.6"],
   "codeowners": []
