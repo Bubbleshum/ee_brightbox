@@ -2,6 +2,8 @@
  eeSmarthub custom component for home assistant
  
  This custom component overwrites the ee_brightbox component to allow EE Smart Hubs to function with the device tracker component.
+
+Please note: this does not work with the new white smart hubs
  
  Original ee_brightbox component can be found at https://github.com/home-assistant/core/tree/dev/homeassistant/components/ee_brightbox
 
